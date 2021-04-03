@@ -1,0 +1,28 @@
+body{
+   background-color:grey;
+position:center;
+font-family: 'DotGothic16', sans-serif;
+}
+
+h1{
+    width: 100%;
+    background-color:rgba(239, 243, 0, 0.774);
+    margin:0;
+    padding: 20px;
+}
+
+.note{
+font-size: 20px;
+}
+
+
+canvas{
+    border: 10px solid rgb(255, 255, 0) ;
+                         border-radius:20px;
+           margin-top:90px;
+}
+
+#button{
+    font-size: 30px;
+margin-left:20px;
+}
